@@ -1,3 +1,5 @@
+// Binary Search
+
 const num = [23, 50, 45, 60, 70, 10,4,0,7,23]
 
   class Node {

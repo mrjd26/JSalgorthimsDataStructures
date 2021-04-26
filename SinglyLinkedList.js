@@ -1,3 +1,4 @@
+// Singly Linked List
 class Animal {
   constructor(name)  {
     this.name = name;

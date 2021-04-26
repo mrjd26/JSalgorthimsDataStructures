@@ -1,3 +1,4 @@
+// bubble sort
 let array = [11, 65, 6, 78, 2, 67, 4, 23, 32, 12, 10, 4, 78, 100, 1];
 
 const bubbleSort = arr => {

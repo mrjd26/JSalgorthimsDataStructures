@@ -1,3 +1,4 @@
+//Stack (lifo) implementation
 class Stack {
     constructor(head) {
       this.head = null;
